@@ -1,6 +1,6 @@
 # CS492I_CV-project
-## FixMatch model for semi-supervised learning.\n
-#### One and only solo team! My teammate dropped the course:(
+ ## FixMatch model for semi-supervised learning.
+ #### One and only solo team! My teammate dropped the course:(
 
  Pre-trained model in NSML\n
  Session: kaist008/fashion_dataset/1268\n
